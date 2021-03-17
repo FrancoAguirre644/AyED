@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615987226 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda\main.cpp
+	<iostream>
+	"Persona.h"
+
+1615987202 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda\persona.cpp
+	"Persona.h"
+	<iostream>
+	<string.h>
+
+1615987256 c:\users\franc\onedrive\desktop\ayed\ayed\tda\persona.h
+
