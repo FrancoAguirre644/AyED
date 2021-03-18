@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1615993230 source:c:\users\franc\onedrive\desktop\ayed\ayed\pila\pila.cpp
+	"Pila.h"
+	<iostream>
+	<string.h>
+
+1615993196 c:\users\franc\onedrive\desktop\ayed\ayed\pila\pila.h
+
+1615992791 source:c:\users\franc\onedrive\desktop\ayed\ayed\pila\sucursal.cpp
+	"Pila.h"
+	<iostream>
+	<string.h>
+
+1615993502 source:c:\users\franc\onedrive\desktop\ayed\ayed\pila\main.cpp
+	<iostream>
+	"Pila.h"
+
