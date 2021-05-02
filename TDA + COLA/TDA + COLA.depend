@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616081467 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda + cola\main.cpp
+	<iostream>
+	"Cola.h"
+
+1616081285 c:\users\franc\onedrive\desktop\ayed\ayed\tda + cola\cola.h
+
+1616081453 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda + cola\cola.cpp
+	"Cola.h"
+	<cstddef>
+
