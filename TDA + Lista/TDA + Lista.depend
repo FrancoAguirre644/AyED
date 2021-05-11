@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620703793 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda + lista\main.cpp
+	<iostream>
+	"Lista.h"
+
+1620703414 c:\users\franc\onedrive\desktop\ayed\ayed\tda + lista\lista.h
+
+1620703510 source:c:\users\franc\onedrive\desktop\ayed\ayed\tda + lista\lista.cpp
+	"Lista.h"
+	<cstddef>
+
